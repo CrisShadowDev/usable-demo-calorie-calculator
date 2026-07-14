@@ -1,0 +1,14 @@
+{
+  "conversions": {
+    "kg_to_lbs": 2.20462,
+    "lbs_to_kg": 0.453592,
+    "cm_to_in": 0.393701,
+    "in_to_cm": 2.54
+  },
+  "activities": {
+    "running_6mph": 10.0,
+    "cycling_moderate": 8.0,
+    "weightlifting_vigorous": 6.0,
+    "walking_brisk": 3.5
+  }
+}
